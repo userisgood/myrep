@@ -2,7 +2,7 @@ import telebot
 import requests
 from telebot import types
 import datetime
-token = "582019256:AAGi-KLHwhu8KBgTN-lYTybVZa_DoPEfy1A"
+token = "TOKEN"
 tb = telebot.TeleBot(token)
 
 
